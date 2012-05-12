@@ -1,4 +1,9 @@
 line 1
 line linux1
 line mac1
+<<<<<<< HEAD
+linux2
+=======
+mac2
 
+>>>>>>> 641432511acb73dbf5806c21fcf1af285474c8af
